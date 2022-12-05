@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:layout_gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/add_a_term_in_dictionary"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtNewTerm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:autofillHints=""
+        android:hint="@string/write_new_term"
+        android:inputType="textMultiLine"
+        android:padding="10dp"
+        tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+    <EditText
+        android:id="@+id/edtNewTermFullForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:hint="@string/new_full_form"
+        android:inputType="textMultiLine"
+        android:maxLines="5"
+        android:minLines="1"
+        android:padding="10dp"
+        tools:ignore="TouchTargetSizeCheck,TextContrastCheck"
+        android:importantForAutofill="no" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@null"
+        android:contentDescription="@string/todo"
+        android:onClick="addNewTerm"
+        android:src="@drawable/save"
+        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+    <TextView
+        android:id="@+id/tvAddResult"
+        android:layout_width="match_parent"
+        android:text=""
+        android:textSize="18sp"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

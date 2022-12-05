@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dictionary Global</string>
+    <string name="add_a_term_in_dictionary">Add a Term in Dictionary</string>
+    <string name="write_new_term">Write New Term...</string>
+    <string name="new_full_form">New Full Form...</string>
+    <string name="todo">TODO</string>
+    <!--    Phần About    -->
+    <string name="about">Giới thiệu</string>
+    <string name="about_app_1">Ứng dụng được xây dựng bằng ngôn ngữ lập trình Java và thiết kế trên IDE Android Studio</string>
+    <string name="about_app_2">Ứng dụng từ điển dùng để đáp ứng nhu cầu về học tập, tham khảo và nâng cao vốn từ</string>
+    <string name="about_app_3">Từ điển có thể tạo đa dạng về vốn từ, giao diện ứng dụng thân thiện.</string>
+
+    <!--    Phần Help    -->
+    <string name="help">Hướng Dẫn</string>
+    <string name="help_app_1">Đặt lại mặc định dữ liệu của từ điển</string>
+    <string name="help_app_2">Nhập từ chính *Write New Term* và điền ý nghĩa, nội dung, ví dụ... của từ *New Full Form* và ấn vào icon Save để lưu lại từ mới</string>
+    <string name="help_app_3">Ấn vào mục *Rate App* dẫn tới cửa hàng Play Store để đánh giá về ứng dụng</string>
+    <string name="help_app_4">Ấn vào *Share App* để gửi đường link tải ứng dụng qua cho những người dùng khác</string>
+    <string name="help_app_5">Ấn vào các chữ cái sẽ hiển thị danh sách các từ bắt đầu bằng chữ cái đó</string>
+</resources>

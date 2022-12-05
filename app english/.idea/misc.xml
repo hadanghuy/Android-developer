@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Huy Laptop/AndroidStudioProjects/Dictionaryone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/Huy Laptop/AndroidStudioProjects/Dictionaryone/app/src/main/res/layout/activity_about_app.xml" value="0.2" />
+        <entry key="..\:/Users/Huy Laptop/AndroidStudioProjects/Dictionaryone/app/src/main/res/layout/activity_author_app.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Huy Laptop/AndroidStudioProjects/Dictionaryone/app/src/main/res/menu/menutrip.xml" value="0.1" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/activity_about_app.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/activity_author_app.xml" value="0.1" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/activity_help_app.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/add_new.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/show_term.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/single_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/layout/term_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/Dictionary/app/src/main/res/menu/menutrip.xml" value="0.253125" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/app/src/main/res/layout/add_new.xml" value="0.253125" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/app/src/main/res/layout/show_term.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/app/src/main/res/layout/single_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/QuangAnhSnake/Desktop/app/src/main/res/layout/term_detail.xml" value="0.20854700854700856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
